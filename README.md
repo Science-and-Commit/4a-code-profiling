@@ -1,2 +1,2 @@
-# Class4
-Content of class 4 of Science and Commit workshop
+# Code Profiling
+// edited by Paula Cáceres Burgos -  pcaceres@das.uchile.cl
