@@ -1,2 +1,2 @@
 # Code Profiling
-// edited by Paula Cáceres Burgos -  pcaceres@das.uchile.cl
+// Content of Code Profiling by Science and Commit Workshop
